@@ -9,7 +9,7 @@ My first repository
 ---
 
 2. **Friends**
-> ~~I am so old to put this series here.~~~
+>  ~~I am so old to put this series here~~
 
 ---
 
